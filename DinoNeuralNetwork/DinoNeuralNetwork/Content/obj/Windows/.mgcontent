@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>//GMRDC1/Folder Redirection/Lorenzo.Lopez/Documents/Visual Studio 2017/Projects/Neural Networks Curriculum/DinoNeuralNetwork/DinoNeuralNetwork/Content/Debug.spritefont</File>
+    <File>//GMRDC1/Folder Redirection/Lorenzo.Lopez/Documents/Visual Studio 2017/Projects/Neural Networks Curriculum/DinoNeuralNetwork/DinoNeuralNetwork/Content/spritesheet.png</File>
+    <File>//GMRDC1/Folder Redirection/Lorenzo.Lopez/Documents/Visual Studio 2017/Projects/Neural Networks Curriculum/DinoNeuralNetwork/DinoNeuralNetwork/Content/ground1.png</File>
+    <File>//GMRDC1/Folder Redirection/Lorenzo.Lopez/Documents/Visual Studio 2017/Projects/Neural Networks Curriculum/DinoNeuralNetwork/DinoNeuralNetwork/Content/ground2.png</File>
+    <File>//GMRDC1/Folder Redirection/Lorenzo.Lopez/Documents/Visual Studio 2017/Projects/Neural Networks Curriculum/DinoNeuralNetwork/DinoNeuralNetwork/Content/ground.png</File>
+    <File>//GMRDC1/Folder Redirection/Lorenzo.Lopez/Documents/Visual Studio 2017/Projects/Neural Networks Curriculum/DinoNeuralNetwork/DinoNeuralNetwork/Content/Speck.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

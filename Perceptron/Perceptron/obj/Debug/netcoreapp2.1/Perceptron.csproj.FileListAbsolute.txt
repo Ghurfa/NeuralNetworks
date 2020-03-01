@@ -1,0 +1,11 @@
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\Perceptron\Perceptron\bin\Debug\netcoreapp2.1\Perceptron.deps.json
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\Perceptron\Perceptron\bin\Debug\netcoreapp2.1\Perceptron.runtimeconfig.json
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\Perceptron\Perceptron\bin\Debug\netcoreapp2.1\Perceptron.runtimeconfig.dev.json
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\Perceptron\Perceptron\bin\Debug\netcoreapp2.1\Perceptron.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\Perceptron\Perceptron\bin\Debug\netcoreapp2.1\Perceptron.pdb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\Perceptron\Perceptron\obj\Debug\netcoreapp2.1\Perceptron.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\Perceptron\Perceptron\obj\Debug\netcoreapp2.1\Perceptron.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\Perceptron\Perceptron\obj\Debug\netcoreapp2.1\Perceptron.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\Perceptron\Perceptron\obj\Debug\netcoreapp2.1\Perceptron.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\Perceptron\Perceptron\obj\Debug\netcoreapp2.1\Perceptron.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\Perceptron\Perceptron\obj\Debug\netcoreapp2.1\Perceptron.pdb

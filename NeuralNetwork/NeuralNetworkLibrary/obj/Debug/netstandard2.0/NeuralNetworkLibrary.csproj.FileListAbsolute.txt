@@ -1,0 +1,8 @@
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\NeuralNetwork\NeuralNetworkLibrary\obj\Debug\netstandard2.0\NeuralNetworkLibrary.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\NeuralNetwork\NeuralNetworkLibrary\obj\Debug\netstandard2.0\NeuralNetworkLibrary.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\NeuralNetwork\NeuralNetworkLibrary\obj\Debug\netstandard2.0\NeuralNetworkLibrary.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\NeuralNetwork\NeuralNetworkLibrary\bin\Debug\netstandard2.0\NeuralNetworkLibrary.deps.json
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\NeuralNetwork\NeuralNetworkLibrary\bin\Debug\netstandard2.0\NeuralNetworkLibrary.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\NeuralNetwork\NeuralNetworkLibrary\bin\Debug\netstandard2.0\NeuralNetworkLibrary.pdb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\NeuralNetwork\NeuralNetworkLibrary\obj\Debug\netstandard2.0\NeuralNetworkLibrary.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\NeuralNetwork\NeuralNetworkLibrary\obj\Debug\netstandard2.0\NeuralNetworkLibrary.pdb

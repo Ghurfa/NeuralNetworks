@@ -1,0 +1,8 @@
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\GradientDescent\GradientDescentLibrary\obj\Debug\netstandard2.0\GradientDescentLibrary.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\GradientDescent\GradientDescentLibrary\obj\Debug\netstandard2.0\GradientDescentLibrary.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\GradientDescent\GradientDescentLibrary\obj\Debug\netstandard2.0\GradientDescentLibrary.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\GradientDescent\GradientDescentLibrary\bin\Debug\netstandard2.0\GradientDescentLibrary.deps.json
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\GradientDescent\GradientDescentLibrary\bin\Debug\netstandard2.0\GradientDescentLibrary.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\GradientDescent\GradientDescentLibrary\bin\Debug\netstandard2.0\GradientDescentLibrary.pdb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\GradientDescent\GradientDescentLibrary\obj\Debug\netstandard2.0\GradientDescentLibrary.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\GradientDescent\GradientDescentLibrary\obj\Debug\netstandard2.0\GradientDescentLibrary.pdb

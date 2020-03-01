@@ -1,0 +1,11 @@
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\HelloWorldMutator\HelloWorldMutator\bin\Debug\netcoreapp2.1\HelloWorldMutator.deps.json
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\HelloWorldMutator\HelloWorldMutator\bin\Debug\netcoreapp2.1\HelloWorldMutator.runtimeconfig.json
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\HelloWorldMutator\HelloWorldMutator\bin\Debug\netcoreapp2.1\HelloWorldMutator.runtimeconfig.dev.json
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\HelloWorldMutator\HelloWorldMutator\bin\Debug\netcoreapp2.1\HelloWorldMutator.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\HelloWorldMutator\HelloWorldMutator\bin\Debug\netcoreapp2.1\HelloWorldMutator.pdb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\HelloWorldMutator\HelloWorldMutator\obj\Debug\netcoreapp2.1\HelloWorldMutator.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\HelloWorldMutator\HelloWorldMutator\obj\Debug\netcoreapp2.1\HelloWorldMutator.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\HelloWorldMutator\HelloWorldMutator\obj\Debug\netcoreapp2.1\HelloWorldMutator.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\HelloWorldMutator\HelloWorldMutator\obj\Debug\netcoreapp2.1\HelloWorldMutator.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\HelloWorldMutator\HelloWorldMutator\obj\Debug\netcoreapp2.1\HelloWorldMutator.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\HelloWorldMutator\HelloWorldMutator\obj\Debug\netcoreapp2.1\HelloWorldMutator.pdb

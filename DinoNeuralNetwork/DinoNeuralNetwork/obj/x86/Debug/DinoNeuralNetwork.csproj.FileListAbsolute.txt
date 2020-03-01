@@ -1,0 +1,58 @@
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\DinoNeuralNetwork.exe
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\DinoNeuralNetwork.pdb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\MonoGame.Framework.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.XInput.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\MonoGame.Framework.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.XInput.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\obj\x86\Debug\DinoNeuralNetwork.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\obj\x86\Debug\DinoNeuralNetwork.csproj.CopyComplete
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\obj\x86\Debug\DinoNeuralNetwork.exe
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\obj\x86\Debug\DinoNeuralNetwork.pdb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\Content\Speck.xnb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\Content\ground1.xnb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\Content\ground2.xnb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\Content\spritesheet.xnb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\Content\Debug.xnb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\System.ValueTuple.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\Visual Studio 2017\Projects\Neural Networks Curriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\System.ValueTuple.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\Content\Debug.xnb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\Content\ground1.xnb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\Content\ground2.xnb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\Content\Speck.xnb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\Content\spritesheet.xnb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\DinoNeuralNetwork.exe
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\DinoNeuralNetwork.pdb
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\MonoGame.Framework.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\System.ValueTuple.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.XInput.dll
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\MonoGame.Framework.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\System.ValueTuple.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\bin\Windows\x86\Debug\SharpDX.XInput.xml
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\obj\x86\Debug\DinoNeuralNetwork.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\obj\x86\Debug\DinoNeuralNetwork.csproj.CopyComplete
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\obj\x86\Debug\DinoNeuralNetwork.exe
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworksCurriculum\DinoNeuralNetwork\DinoNeuralNetwork\obj\x86\Debug\DinoNeuralNetwork.pdb
