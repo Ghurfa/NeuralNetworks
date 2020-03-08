@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\Visual Studio 2017\\Projects\\Neural Networks Curriculum\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj": {
-                "projectPath": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\Visual Studio 2017\\Projects\\Neural Networks Curriculum\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj"
+              "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\NeuralNetworks\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj": {
+                "projectPath": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\NeuralNetworks\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\Visual Studio 2017\\Projects\\Neural Networks Curriculum\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj": {
+    "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\NeuralNetworks\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\Visual Studio 2017\\Projects\\Neural Networks Curriculum\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj",
+        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\NeuralNetworks\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj",
         "projectName": "NeuralNetworkLibrary",
-        "projectPath": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\Visual Studio 2017\\Projects\\Neural Networks Curriculum\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj",
+        "projectPath": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\NeuralNetworks\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj",
         "packagesPath": "C:\\Users\\Lorenzo.Lopez\\.nuget\\packages\\",
-        "outputPath": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\Visual Studio 2017\\Projects\\Neural Networks Curriculum\\NeuralNetwork\\NeuralNetworkLibrary\\obj\\",
+        "outputPath": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\NeuralNetworks\\NeuralNetwork\\NeuralNetworkLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -109,6 +109,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.3, )"
             }
           },
           "imports": [

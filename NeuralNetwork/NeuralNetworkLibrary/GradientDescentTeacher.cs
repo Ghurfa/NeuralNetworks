@@ -8,6 +8,8 @@ namespace NeuralNetworkLibrary
     {
         private Network network;
         private Dictionary<Neuron, double> partialDerivatives;
+        private Dictionary<Neuron, double[]> prevWeightUpdates;
+        private Dictionary<Neuron, double> prevBiasUpdates;
         private double[][][] weightUpdates;
         private double[][] biasUpdates;
         public GradientDescentTeacher(Network network)
@@ -34,24 +36,72 @@ namespace NeuralNetworkLibrary
                 Layer layer = network.Layers[i];
                 biasUpdates[i] = new double[layer.Neurons.Length];
             }
+
+            prevWeightUpdates = new Dictionary<Neuron, double[]>();
+            foreach (Layer layer in network.Layers)
+            {
+                foreach (Neuron neuron in layer.Neurons)
+                {
+                    prevWeightUpdates[neuron] = new double[neuron.Weights.Length];
+                }
+            }
+
+            prevBiasUpdates = new Dictionary<Neuron, double>();
+            foreach (Layer layer in network.Layers)
+            {
+                foreach (Neuron neuron in layer.Neurons)
+                {
+                    prevBiasUpdates[neuron] = 0;
+                }
+            }
         }
-        public int TrainNetwork(double[][] inputs, double[][] desiredOutputs, double goalError)
+        public int TrainNetwork(double[][] inputs, double[][] desiredOutputs, double goalError, int batchSize = -1)
         {
             int numOfGenerations = 0;
             double totalError = 1;
-            while (totalError > goalError)
+            if (batchSize < 0)
             {
-                GradientDescent(inputs, desiredOutputs);
-                totalError = 0;
-                for (int i = 0; i < inputs.Length; i++)
+                while (totalError > goalError)
                 {
-                    totalError += network.MSE(inputs[i], desiredOutputs[i]);
+                    GradientDescent(inputs, desiredOutputs);
+                    totalError = 0;
+                    for (int i = 0; i < inputs.Length; i++)
+                    {
+                        totalError += network.MSE(inputs[i], desiredOutputs[i]);
+                    }
+                    //Console.WriteLine(totalError);
+                    //network.PrintWeights();
+                    numOfGenerations++;
                 }
-                Console.WriteLine(totalError);
-                //network.PrintWeights();
-                numOfGenerations++;
+                return numOfGenerations;
             }
-            return numOfGenerations;
+            else
+            {
+                while (totalError > goalError)
+                {
+                    MiniBatch(inputs, desiredOutputs, batchSize);
+                    totalError = 0;
+                    for (int i = 0; i < inputs.Length; i++)
+                    {
+                        totalError += network.MSE(inputs[i], desiredOutputs[i]);
+                    }
+                    //Console.WriteLine(totalError);
+                    //network.PrintWeights();
+                    numOfGenerations++;
+                }
+                return numOfGenerations;
+            }
+        }
+        public void MiniBatch(double[][] inputs, double[][] desiredOutputs, int batchSize)
+        {
+            ReadOnlySpan<double[]> inputsSpan = inputs.AsSpan();
+            ReadOnlySpan<double[]> desiredOutputsSpan = desiredOutputs.AsSpan();
+            for(int i = 0; i < inputs.Length; i += batchSize)
+            {
+                ReadOnlySpan<double[]> batchInputs = inputsSpan.Slice(i, batchSize);
+                ReadOnlySpan<double[]> batchDesiredOutputs = desiredOutputsSpan.Slice(i, batchSize);
+                GradientDescent(batchInputs.ToArray(), batchDesiredOutputs.ToArray());
+            }
         }
         public void GradientDescent(double[][] inputs, double[][] desiredOutputs)
         {
@@ -60,9 +110,9 @@ namespace NeuralNetworkLibrary
             {
                 network.Compute(inputs[i]);
                 calculateDerivatives(desiredOutputs[i]);
-                calculateWeightUpdates(inputs[i], 0.5);
+                calculateWeightUpdates(inputs[i], 0.05);
             }
-            applyWeightUpdates();
+            applyWeightUpdates(0.5);
         }
         private void calculatePartialDerivative(Neuron neuron, double error)
         {
@@ -72,6 +122,9 @@ namespace NeuralNetworkLibrary
             {
                 case ActivationType.Sigmoid:
                     activationDerivative = neuron.Output * (1 - neuron.Output);
+                    break;
+                case ActivationType.TanH:
+                    activationDerivative = 1 - neuron.Output * neuron.Output;
                     break;
                 default:
                     throw new NotImplementedException();
@@ -135,20 +188,26 @@ namespace NeuralNetworkLibrary
                 }
             }
         }
-        private void applyWeightUpdates()
+        private void applyWeightUpdates(double momentum)
         {
-            for(int i = 0; i < network.Layers.Length; i++)
+            for (int i = 0; i < network.Layers.Length; i++)
             {
                 Layer layer = network.Layers[i];
-                for(int j = 0; j < layer.Neurons.Length; j++)
+                for (int j = 0; j < layer.Neurons.Length; j++)
                 {
                     Neuron neuron = layer.Neurons[j];
                     for (int k = 0; k < neuron.Weights.Length; k++)
                     {
-                        neuron.Weights[k] += weightUpdates[i][j][k];
+                        double weightChange = weightUpdates[i][j][k] + prevWeightUpdates[neuron][k] * momentum;
+                        prevWeightUpdates[neuron][k] = weightChange;
+                        neuron.Weights[k] += weightChange;
+
                         weightUpdates[i][j][k] = 0;
                     }
-                    neuron.Bias += biasUpdates[i][j];
+                    double biasChange = biasUpdates[i][j] + prevBiasUpdates[neuron] * momentum;
+                    prevBiasUpdates[neuron] = biasChange;
+                    neuron.Bias += biasChange;
+
                     biasUpdates[i][j] = 0;
                 }
             }

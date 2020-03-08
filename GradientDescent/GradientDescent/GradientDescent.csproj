@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Visual Studio 2017\Projects\Neural Networks Curriculum\NeuralNetwork\NeuralNetworkLibrary\NeuralNetworkLibrary.csproj" />
+    <ProjectReference Include="..\..\NeuralNetwork\NeuralNetworkLibrary\NeuralNetworkLibrary.csproj" />
   </ItemGroup>
 
 </Project>

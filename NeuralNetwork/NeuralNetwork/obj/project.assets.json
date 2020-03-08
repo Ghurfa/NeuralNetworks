@@ -711,11 +711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\Visual Studio 2017\\Projects\\Neural Networks Curriculum\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj",
+      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\NeuralNetworks\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj",
       "projectName": "NeuralNetwork",
-      "projectPath": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\Visual Studio 2017\\Projects\\Neural Networks Curriculum\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj",
+      "projectPath": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\NeuralNetworks\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj",
       "packagesPath": "C:\\Users\\Lorenzo.Lopez\\.nuget\\packages\\",
-      "outputPath": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\Visual Studio 2017\\Projects\\Neural Networks Curriculum\\NeuralNetwork\\NeuralNetwork\\obj\\",
+      "outputPath": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\NeuralNetworks\\NeuralNetwork\\NeuralNetwork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -736,8 +736,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\Visual Studio 2017\\Projects\\Neural Networks Curriculum\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj": {
-              "projectPath": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\Visual Studio 2017\\Projects\\Neural Networks Curriculum\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj"
+            "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\NeuralNetworks\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj": {
+              "projectPath": "\\\\GMRDC1\\Folder Redirection\\Lorenzo.Lopez\\Documents\\NeuralNetworks\\NeuralNetwork\\NeuralNetworkLibrary\\NeuralNetworkLibrary.csproj"
             }
           }
         }

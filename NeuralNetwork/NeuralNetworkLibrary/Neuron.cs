@@ -7,7 +7,8 @@ namespace NeuralNetworkLibrary
     public enum ActivationType
     {
         BinaryStep,
-        Sigmoid
+        Sigmoid,
+        TanH
     }
 
     public class Neuron
@@ -51,6 +52,10 @@ namespace NeuralNetworkLibrary
                 case ActivationType.Sigmoid:
                     {
                         return 1 / (1 + Math.Exp(-value));
+                    }
+                case ActivationType.TanH:
+                    {
+                        return Math.Tanh(value);
                     }
                 default:
                     throw new InvalidOperationException();
