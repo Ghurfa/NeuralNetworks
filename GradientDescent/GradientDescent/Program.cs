@@ -69,7 +69,7 @@ namespace GradientDescent
             {
                 network.Randomize(new Random());
                 GradientDescentTeacher teacher = new GradientDescentTeacher(network);
-                int numOfGens = teacher.TrainNetwork(inputs, outputs, 0.03, 1);
+                int numOfGens = teacher.TrainNetwork(inputs, outputs, 0.03, 8);
                 Console.WriteLine($"Num of generations: {numOfGens}");
                 desmosPrint1N1(network, 0, Math.PI * 2);
                 Console.ReadKey();
@@ -78,6 +78,15 @@ namespace GradientDescent
         }
         public static void desmosPrint1N1(Network network, double domainLower, double domainHigher)
         {
+            switch (network.ActivationFunc)
+            {
+                case ActivationType.TanH:
+                    Console.WriteLine("a(x)=\\tanh(x)");
+                    break;
+                default:
+                    throw new NotImplementedException();
+            }
+
             Layer nLayer = network.Layers[0];
             for(int i = 0; i < nLayer.Neurons.Length; i++)
             {
@@ -90,7 +99,7 @@ namespace GradientDescent
             {
                 Console.Write($"n_{{{i}}}(x) * {outputNeuron.Weights[i]} + ");
             }
-            Console.WriteLine($"{outputNeuron.Bias})\\left\\{{{domainLower}<x<{domainHigher}\\pi\\right\\}}");
+            Console.WriteLine($"{outputNeuron.Bias})\\left\\{{{domainLower}<x<{domainHigher}\\right\\}}");
         }
         static void Main(string[] args)
         {
