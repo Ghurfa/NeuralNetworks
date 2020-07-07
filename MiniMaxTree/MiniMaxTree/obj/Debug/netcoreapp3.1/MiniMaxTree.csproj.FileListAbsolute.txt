@@ -1,0 +1,3 @@
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworks\MiniMaxTree\MiniMaxTree\obj\Debug\netcoreapp3.1\MiniMaxTree.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworks\MiniMaxTree\MiniMaxTree\obj\Debug\netcoreapp3.1\MiniMaxTree.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Lorenzo.Lopez\Documents\NeuralNetworks\MiniMaxTree\MiniMaxTree\obj\Debug\netcoreapp3.1\MiniMaxTree.AssemblyInfo.cs
